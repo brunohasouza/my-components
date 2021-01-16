@@ -1,7 +1,7 @@
 <template>
 <div class="wrapper">
   <div class="card">
-    <h1 class="font-bold text-6xl">Vue With TailwindCSS v3</h1>
+    <h1 class="font-bold text-6xl">Vue With TailwindCSS v4</h1>
     <h2 class="text-3xl font-bold">{{ subtitle }}</h2>
     <slot />
   </div>
